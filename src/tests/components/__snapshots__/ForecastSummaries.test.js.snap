@@ -18,9 +18,10 @@ exports[`ForecastSummaries renders correctly 1`] = `
         class="forecast-summary__icon"
         data-testid="forecast-icon"
       >
-        stubIcon1
+        800
         <img
           alt=""
+          src="https://openweathermap.org/img/wn/01d@2x.png"
         />
       </div>
       <div
@@ -52,7 +53,7 @@ exports[`ForecastSummaries renders correctly 1`] = `
         class="forecast-summary__icon"
         data-testid="forecast-icon"
       >
-        stubIcon2
+        602
         <img
           alt=""
         />
